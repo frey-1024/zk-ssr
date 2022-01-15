@@ -144,7 +144,7 @@
     "rimraf": "^2.6.2",
     "sass-loader": "^7.1.0",
     "semver": "^5.5.1",
-    "shelljs": "^0.8.2",
+    "shelljs": "^0.8.5",
     "style-loader": "^0.23.0",
     "uglifyjs-webpack-plugin": "^2.0.0",
     "url-loader": "^1.1.1",
